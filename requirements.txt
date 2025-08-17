@@ -1,0 +1,10 @@
+streamlit==1.36.0
+transformers==4.44.2
+datasets==2.20.0
+torch==2.4.0
+scikit-learn==1.5.2
+beautifulsoup4==4.12.3
+requests==2.32.3
+torch_geometric==2.5.3
+numpy==1.26.4
+pandas==2.2.2
